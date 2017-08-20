@@ -16,5 +16,5 @@ A few related articles:
 -http://mason.gmu.edu/~jluo2/optimal.pdf
 -https://astro.temple.edu/~msobel/documents/pami07-7.pdf
 
-
+Note: the code is not clean, and obviously proofs nothing other than the fact that we can find examples where this works.
 
